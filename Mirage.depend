@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1636498430 source:c:\users\sony\documents\c projects\mirage\main.c
+	<stdio.h>
+	<stdlib.h>
+
